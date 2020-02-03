@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2020-01-20T16:06:58.433Z\n"
+"POT-Creation-Date: 2020-02-03T11:22:56.081Z\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "MIME-Version: 1.0\n"
@@ -4421,6 +4421,14 @@ msgstr ""
 #. Inactive
 msgctxt "webhook"
 msgid "Inactive"
+msgstr ""
+
+#: build/locale/src/components/RichTextEditor/RichTextEditor.json
+#. [src.components.RichTextEditor.286109898] - rich text error
+#. defaultMessage is:
+#. Invalid content
+msgctxt "rich text error"
+msgid "Invalid content"
 msgstr ""
 
 #: build/locale/src/products/components/ProductStock/ProductStock.json
